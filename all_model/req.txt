@@ -1,0 +1,9 @@
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+keras-tuner==1.0.1
+tensorflow-hub==0.8.0
+tensorflow-metadata==0.22.2
+tensorflow-probability==0.11.0
+opencv-python==4.3.0.36
+numpy==1.18.5
+matplotlib==3.2.1
